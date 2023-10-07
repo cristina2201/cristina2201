@@ -8,7 +8,7 @@ Soy Cristina, estudiante de Desarrollo de Aplicaciones Web en el I.E.S Luis Vive
 
 Este año terminé el Grado Superior en Administración y Finanzas 💰📈 en el instituto I.E.S Pablo Picasso de Pinto, e hice las prácticas en el Departamento de Recursos Humanos en Repsol. En septiembre he empezado el Grado Superior de Desarrollo de Aplicaciones Web en el Luis Vives, ya que, la Informática 💻 es algo que siempre me llamado la atención y además quiero tener otra salida profesional además de Administración.
 
-Como hobbies, me gusta jugar a videojuegos 🎮, ver películas🎬 y montar en bici 🚲.
+Como hobbies, me gusta jugar a videojuegos 🎮, ver películas🎬, montar en bici 🚲 y leer 📚.
 
 ## 📫 Contacto 
 - LinkedIn - [Cristina Cabanyes Muñoz](https://linkedin.com/in/cristina-cabanyes-mu%C3%B1oz/)
