@@ -11,7 +11,7 @@ Durante mi formación tuve la oportunidad de realizar prácticas en el Departame
 
 En septiembre he empezado el Grado Superior de DAW en el Luis Vives, ya que, la Informática y la Tecnología 💻 siempre me han llamado la atención y quería explorar otra salida profesional en el mundo de la programación y desarrollo web.
 
-    Como hobbies; me gusta jugar a videojuegos 🎮, ver películas🎬, montar en bici 🚲 y leer 📚.
+Como hobbies; me gusta jugar a videojuegos 🎮, ver películas🎬, montar en bici 🚲 y leer 📚.
 
 ## 📫 Contacto 
 - LinkedIn - [Cristina Cabanyes Muñoz](https://linkedin.com/in/cristina-cabanyes-mu%C3%B1oz/)
