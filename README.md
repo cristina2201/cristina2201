@@ -14,5 +14,13 @@ En septiembre he empezado el Grado Superior de DAW en el Luis Vives, ya que, la 
 Como hobbies; me gusta jugar a videojuegos 🎮, ver películas🎬, montar en bici 🚲 y leer 📚.
 
 ## 📫 Contacto 
-- LinkedIn - [Cristina Cabanyes Muñoz](https://linkedin.com/in/cristina-cabanyes-mu%C3%B1oz/)
-- Correo electrónico 📧 - cristina.cabanyes@alumno.iesluisvives.org
+<div align="left">
+  <a href="https://www.linkedin.com/in/cristina-cabanyes-mu%C3%B1oz/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="cristina.cabanyes@alumno.iesluisvives.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
+  </a>
+</div>
+
+###
