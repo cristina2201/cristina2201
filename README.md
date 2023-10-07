@@ -4,7 +4,7 @@
 
 <img src="./imgs/cristina2201-octocat-rotating.gif" width=35% align=left />
 
-Soy Cristina, estudiante de Desarrollo de Aplicaciones Web en el I.E.S Luis Vives y Técnica Superior en Administración y Finanzas.
+Soy Cristina, estudiante de **Desarrollo de Aplicaciones Web** en el I.E.S Luis Vives y Técnica Superior en **Administración y Finanzas**.
 
 En junio terminé el Grado Superior en Administración y Finanzas 💰📈 en el instituto I.E.S Pablo Picasso en Pinto. 
 Durante mi formación tuve la oportunidad de realizar las prácticas en el Departamento de Recursos Humanos en Repsol. 
