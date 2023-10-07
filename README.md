@@ -11,7 +11,7 @@ Durante mi formación tuve la oportunidad de realizar prácticas en el Departame
 
 En septiembre he empezado el Grado Superior en Desarrollo de Aplicaciones Web en el I.E.S Luis Vives en Leganés , ya que, la Informática y la Tecnología 💻 siempre me han llamado la atención y quería explorar otra salida profesional en el mundo de la programación y desarrollo web.
 
-Como hobbies; me gusta jugar a videojuegos 🎮, ver películas🎬, montar en bici 🚲 y leer 📚.
+  Como hobbies; me gusta jugar a videojuegos 🎮, ver películas🎬, montar en bici 🚲 y leer 📚.
 
 <h2 align="left">📫 Contacto</h2>
 <p align="left">
