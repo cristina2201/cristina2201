@@ -13,7 +13,7 @@ En septiembre empecé el Grado Superior en Desarrollo de Aplicaciones Web en el 
 
 Como hobbies; me gusta jugar a videojuegos 🎮, ver películas🎬, montar en bici 🚲 y leer 📚.
 
-<h1 align="left">⚡ Tecnologías que estoy aprendiendo a usar </h1>
+<h1 align="left">⚒️ Tecnologías que estoy aprendiendo a usar </h1>
 <p align="left">
   <img loading="lazy" src="https://www.jetbrains.com/academy/img/icon-kotlin-new.svg" 
   height="40">
