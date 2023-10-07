@@ -6,12 +6,12 @@
 
 Soy Cristina, estudiante 👩🏻‍🎓 de **Desarrollo de Aplicaciones Web** en el I.E.S Luis Vives y Técnica Superior en **Administración y Finanzas** 💼.
 
-En junio terminé el Grado Superior en Administración y Finanzas en el instituto 🏫 I.E.S Pablo Picasso en Pinto, en el que adquirí conocimientos de contabilidad, gestión financiera y gestión empresarial.
+En junio terminé el Grado Superior en Administración y Finanzas en el instituto 🏫 I.E.S Pablo Picasso en Pinto, en el que adquirí conocimientos de contabilidad 🧮, gestión financiera y gestión empresarial.
 Durante mi formación, tuve la oportunidad de realizar las prácticas en el Departamento de Recursos Humanos en Repsol. 
 
 En septiembre empecé el Grado Superior en Desarrollo de Aplicaciones Web en el 🏫 I.E.S Luis Vives en Leganés , ya que, la Informática 💻 y la Tecnología siempre me han llamado la atención y quería explorar otra salida profesional en el mundo de la programación y desarrollo web.
 
-Como hobbies; me gusta jugar a videojuegos🎮, ver películas🎬, montar en bici🚲 y escuchar música🎵.
+Como hobbies; me gusta jugar a videojuegos🎮, ver películas🎬, montar en bici🚲, escuchar música🎵 y leer📚.
 <h1 align="left">⚒️ Tecnologías que estoy aprendiendo a usar </h1>
 <p align="left">
   <img loading="lazy" src="https://www.jetbrains.com/academy/img/icon-kotlin-new.svg" 
