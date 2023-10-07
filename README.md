@@ -29,10 +29,10 @@ Como hobbies; me gusta jugar a videojuegos 🎮, ver películas🎬, montar en b
   <a href="https://www.linkedin.com/in/cristina-cabanyes-mu%C3%B1oz/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="<a href=»cristinamadrid2017@gmail.com>»> Click aquí </a>" target="_blank">
+  <a href="mailto:cristinamadrid2017@gmail.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-  <a href="<a href=»cristina.cabanyes@alumno.iesluisvives.org <cristina.cabanyes@alumno.iesluisvives.org>»> Click aquí </a> " target="_blank">
+  <a href="mailto:cristina.cabanyes@alumno.iesluisvives.org">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
   </a>
 </div>
