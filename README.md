@@ -13,6 +13,7 @@ En septiembre he empezado el Grado Superior en Desarrollo de Aplicaciones Web en
 
 Como hobbies; me gusta jugar a videojuegos 🎮, ver películas🎬, montar en bici 🚲 y leer 📚.
 
+
 <h2 align="left">📫 Contacto</h2>
 <p align="left">
   <a href="https://www.linkedin.com/in/cristina-cabanyes-mu%C3%B1oz/" target="_blank">
