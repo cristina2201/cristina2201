@@ -4,7 +4,7 @@
 
 <img src="./imgs/cristina2201-octocat-rotating.gif" width=24% align=left />
 
-¡Hola! Soy Cristina, estudiante de Desarrollo de Aplicaciones Web en el I.E.S Luis Vives y Técnica Superior en Administración y Finanzas. 
+Soy Cristina, estudiante de Desarrollo de Aplicaciones Web en el I.E.S Luis Vives y Técnica Superior en Administración y Finanzas. 
 
 ## 📫 Contacto 
 - LinkedIn - [Cristina Cabanyes Muñoz](https://linkedin.com/in/cristina-cabanyes-mu%C3%B1oz/)
