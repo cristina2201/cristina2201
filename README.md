@@ -24,15 +24,15 @@ Como hobbies; me gusta jugar a videojuegos 🎮, ver películas🎬, montar en b
   <img loading="lazy" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" 
   height="40">
 
-<h1 align="left">📫 Contacto</h1>
+<h1 align="left">📫 Contacto</h1> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWhhNDZiYWxyeGU4aTl2MjN3bnZrdXF3bmpmbHhnMmR5cHY1OXdyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kxbIch2AXOKnbra74z/giphy.gif" height="190"/>
 <div align="left">
   <a href="https://www.linkedin.com/in/cristina-cabanyes-mu%C3%B1oz/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="50" alt="linkedin logo"  />
   </a>
   <a href="mailto:cristinamadrid2017@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="50" alt="gmail logo"  />
   </a>
   <a href="mailto:cristina.cabanyes@alumno.iesluisvives.org">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="50" alt="microsoft-outlook logo"  />
   </a>
 </div>
