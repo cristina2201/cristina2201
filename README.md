@@ -1,6 +1,6 @@
 <img src="./imgs/gh-header-canvasbanner.png" alt="Banner" borderRadius='1rem' boxShadow = '0 3px 10px rgba(0,0,0,0.3)' align="center">
 
-# 👋🏻 Hola, soy Cristina Cabanyes 👩🏻‍💻
+<h1 align="left">👋🏻 Hola, soy Cristina Cabanyes 👩🏻‍💻 </h1>
 
 <img src="./imgs/cristina2201-octocat-rotating.gif" width=35% align=left />
 
