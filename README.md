@@ -15,4 +15,4 @@ Como hobbies; me gusta jugar a videojuegos 🎮, ver películas🎬, montar en b
 
 ## 📫 Contacto 
 - LinkedIn - [Cristina Cabanyes Muñoz](https://linkedin.com/in/cristina-cabanyes-mu%C3%B1oz/)
-- Correo electrónico - cristina.cabanyes@alumno.iesluisvives.org
+- Correo electrónico 📧 - cristina.cabanyes@alumno.iesluisvives.org
