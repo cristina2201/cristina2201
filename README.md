@@ -13,18 +13,7 @@ En septiembre empecé el Grado Superior en Desarrollo de Aplicaciones Web en el 
 
 Como hobbies; me gusta jugar a videojuegos 🎮, ver películas🎬, montar en bici 🚲 y leer 📚.
 
-
-<h2 align="left">📫 Contacto</h2>
-<p align="left">
-  <a href="https://www.linkedin.com/in/cristina-cabanyes-mu%C3%B1oz/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:cristina.cabanyes@alumno.iesluisvives.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
-  </a>
-</div>
-
-<h2 align="left">⚡ Tecnologías que estoy aprendiendo a usar </h2>
+<h1 align="left">⚡ Tecnologías que estoy aprendiendo a usar </h1>
 <p align="left">
   <img loading="lazy" src="https://www.jetbrains.com/academy/img/icon-kotlin-new.svg" 
   height="40">
@@ -34,3 +23,13 @@ Como hobbies; me gusta jugar a videojuegos 🎮, ver películas🎬, montar en b
   height="40">
   <img loading="lazy" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" 
   height="40">
+
+<h1 align="left">📫 Contacto</h1>
+<p align="left">
+  <a href="https://www.linkedin.com/in/cristina-cabanyes-mu%C3%B1oz/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:cristina.cabanyes@alumno.iesluisvives.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
+  </a>
+</div>
