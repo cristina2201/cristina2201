@@ -16,7 +16,7 @@ Como hobbies; me gusta jugar a videojuegos🎮, ver películas🎬, montar en bi
 <p align="left">
 <img loading="lazy" src="imgs/visualstudiocode.png" height="45">
 <img loading="lazy" src="imgs/intelliJ.png" height="40">
-<img loading="lazy" src="imgs/kotlin.png" height="40">
+<img loading="lazy" src="imgs/kotlin.png" height="35">
 <img loading="lazy" src="imgs/git.png" height="40">
 <img loading="lazy" src="imgs/github.png" height="40">
 
