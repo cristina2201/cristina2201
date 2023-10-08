@@ -20,7 +20,8 @@ Como hobbies; me gusta jugar a videojuegos🎮, ver películas🎬, montar en bi
 <img loading="lazy" src="imgs/git.png" height="40">
 <img loading="lazy" src="imgs/github.png" height="40">
 
-<h1 align="left">📫 Contacto </h1>
+<h1 align="left">📫 Contacto </h1> 
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWhhNDZiYWxyeGU4aTl2MjN3bnZrdXF3bmpmbHhnMmR5cHY1OXdyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kxbIch2AXOKnbra74z/giphy.gif" height="150"/>
 <p align="left">
 <a href="https://www.linkedin.com/in/cristina-cabanyes-mu%C3%B1oz/" target="_blank">
   <img loading="lazy" src="imgs/linkedin.png" 
@@ -32,3 +33,5 @@ Como hobbies; me gusta jugar a videojuegos🎮, ver películas🎬, montar en bi
 <a href="mailto:cristinamadrid2017@gmail.com">  
   <img loading="lazy" src="imgs/gmail.png" height="40">
 </a>
+
+ 
