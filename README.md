@@ -12,7 +12,7 @@ Durante mi formación, tuve la oportunidad de realizar las prácticas en el Depa
 En septiembre empecé el Grado Superior en Desarrollo de Aplicaciones Web en el 🏫 I.E.S Luis Vives en Leganés , ya que la Informática 💻 y la Tecnología siempre me han llamado la atención y quería explorar otra salida profesional en el mundo de la programación y desarrollo web.
 
 Como hobbies; me gusta jugar a videojuegos🎮, ver películas🎬, montar en bici🚲, escuchar música🎵 y leer📚.
-<h1 align="left">⚒️ Tecnologías que estoy aprendiendo a usar </h1>
+<h1 align="left">⚡ Tecnologías que estoy aprendiendo a usar </h1>
 <p align="left">
 <img loading="lazy" src="imgs/visualstudiocode.png" height="45">
 <img loading="lazy" src="imgs/intelliJ.png" height="40">
