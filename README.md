@@ -14,7 +14,7 @@ En septiembre empecé el Grado Superior en Desarrollo de Aplicaciones Web en el 
 Como hobbies; me gusta jugar a videojuegos🎮, ver películas🎬, montar en bici🚲, escuchar música🎵 y leer📚.
 <h1 align="left">⚒️ Tecnologías que estoy aprendiendo a usar </h1>
 <p align="left">
-<img loading="lazy" src="imgs/visualstudiocode.png" height="40">
+<img loading="lazy" src="imgs/visualstudiocode.png" height="45">
 <img loading="lazy" src="imgs/intelliJ.png" height="40">
 <img loading="lazy" src="imgs/kotlin.png" height="40">
 <img loading="lazy" src="imgs/git.png" height="40">
