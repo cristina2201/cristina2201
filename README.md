@@ -14,24 +14,21 @@ En septiembre empecé el Grado Superior en Desarrollo de Aplicaciones Web en el 
 Como hobbies; me gusta jugar a videojuegos🎮, ver películas🎬, montar en bici🚲, escuchar música🎵 y leer📚.
 <h1 align="left">⚒️ Tecnologías que estoy aprendiendo a usar </h1>
 <p align="left">
-  <img loading="lazy" src="https://www.jetbrains.com/academy/img/icon-kotlin-new.svg" 
-  height="40">
-  <img loading="lazy" src="https://distreau.com/github.svg" 
-  height="40">
-  <img loading="lazy" src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" 
-  height="40">
-  <img loading="lazy" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" 
-  height="40">
+<img loading="lazy" src="imgs/visualstudiocode.png" height="40">
+<img loading="lazy" src="imgs/intelliJ.png" height="40">
+<img loading="lazy" src="imgs/kotlin.png" height="40">
+<img loading="lazy" src="imgs/git.png" height="40">
+<img loading="lazy" src="imgs/github.png" height="40">
 
-<h2 align="left">📫 Contacto</h2> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWhhNDZiYWxyeGU4aTl2MjN3bnZrdXF3bmpmbHhnMmR5cHY1OXdyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kxbIch2AXOKnbra74z/giphy.gif" height="150"/>
-<div align="left">
-  <a href="https://www.linkedin.com/in/cristina-cabanyes-mu%C3%B1oz/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:cristinamadrid2017@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="mailto:cristina.cabanyes@alumno.iesluisvives.org">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="40" height="50" alt="microsoft-outlook logo"  />
-  </a>
-</div>
+<h1 align="left">📫 Contacto </h1>
+<p align="left">
+<a href="https://www.linkedin.com/in/cristina-cabanyes-mu%C3%B1oz/" target="_blank">
+  <img loading="lazy" src="imgs/linkedin.png" 
+  height="40">
+</a>
+<a href="mailto:cristina.cabanyes@alumno.iesluisvives.org">
+  <img loading="lazy" src="imgs/outlook.png" height="40">
+</a>
+<a href="mailto:cristinamadrid2017@gmail.com">  
+  <img loading="lazy" src="imgs/gmail.png" height="40">
+</a>
