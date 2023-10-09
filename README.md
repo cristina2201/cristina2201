@@ -30,7 +30,7 @@ Como hobbies; me gusta jugar a videojuegos🎮, ver películas🎬, montar en bi
 <a href="mailto:cristina.cabanyes@alumno.iesluisvives.org">
   <img loading="lazy" src="imgs/outlook.png" height="40">
 </a>
-<a href="mailto:cristinamadrid2017@gmail.com">  
+<a href="mailto:cabanyescristina@gmail.com">  
   <img loading="lazy" src="imgs/gmail.png" height="40">
 </a>
 
