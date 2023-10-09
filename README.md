@@ -2,7 +2,7 @@
 
 <h1 align="left">👋🏻 Hola, soy Cristina Cabanyes 👩🏻‍💻 </h1>
 
-<img src="./imgs/cristina2201-octocat-rotating.gif" width=35% align=left />
+<img src="./imgs/octocat-gift.gif" width=35% align=left />
 
 Soy Cristina, estudiante 👩🏻‍🎓 de **Desarrollo de Aplicaciones Web** en el I.E.S Luis Vives y Técnica Superior en **Administración y Finanzas** 💼.
 
