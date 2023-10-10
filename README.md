@@ -1,5 +1,10 @@
 <img src="./imgs/gh-header-canvasbanner.png" alt="Banner" borderRadius='1rem' boxShadow = '0 3px 10px rgba(0,0,0,0.3)' align="center">
-
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=cristina2201&label=Profile%20views&color=42b983&style=flat" alt="cristina2201-github" />
+  <img src="https://img.shields.io/github/followers/cristina2201?style=social" alt="cristina2201-github" />
+  <img src="https://img.shields.io/github/stars/cristina2201?style=social" alt="cristina2201-github" />
+  
+</p>
 <h1 align="left">👋🏻 Hola, soy Cristina Cabanyes 👩🏻‍💻 </h1>
 
 <img src="./imgs/octocat-gift.gif" width=35% align=left />
